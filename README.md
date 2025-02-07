@@ -4,7 +4,12 @@ Le Projet 1 visait à me mettre dans les meilleures conditions pour réussir ma 
 
 **Compétences développées** : Compréhension du contexte métier, collaboration et communication avec le mentor.
 
-**Soft skills acquis** : Communication, autonomie, gestion du temps.
+**Soft skills acquis** : 
+- Priorisation
+- Autonomie
+- Pédagogie
+- Rigueur
+- Force de proposition
 
 ## Commentaires de l'évaluateur
 
@@ -15,5 +20,4 @@ Le Projet 1 visait à me mettre dans les meilleures conditions pour réussir ma 
 **Axes d'amélioration** : Attention tout de même à l'élaboration du planning de formation qui m'a semblé un peu "aléatoire".
 
 ### Soutenance
-
-**Remarques** : Parfois un manque de fluidité dans les réponses et l'utilisation de l'outil, mais nous paufinerons tout ça tout au long de la formation.
+RAS
