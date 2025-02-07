@@ -17,7 +17,5 @@ Le Projet 1 visait à me mettre dans les meilleures conditions pour réussir ma 
 
 **Points forts** : Livrable clair et concis.
 
-**Axes d'amélioration** : Attention tout de même à l'élaboration du planning de formation qui m'a semblé un peu "aléatoire".
-
 ### Soutenance
 RAS
